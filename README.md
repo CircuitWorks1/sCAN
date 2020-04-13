@@ -10,4 +10,4 @@ The following is an example of what the first row in the CSV should resemble. Ou
 
 No,Direction,Time_Scale,Frame_Type,Frame_Format,Frame_ID,Data_Length,ByteA,ByteB,ByteC,ByteD,ByteE,ByteF,ByteG,ByteH
 
-The build here is coded to to compare the Oil pressure-true.csv and Oil pressure-false.csv . The script is currently harcoded to search for the 35 IDs used by the IDS ECM in my EBR 1190rx. Plans to make the script more dynamic and add capabilities to pull all used IDs from the CSV prior to searching for HEX appearances. 
+The build here is coded to to compare the Oil pressure-true.csv and Oil pressure-false.csv . The script is currently harcoded to search for the 35 IDs used by the IDS ECM in my EBR 1190rx. Plans to make the script more dynamic and add capabilities to pull all used IDs from the CSV prior to searching for HEX appearances are on the table and in the works. 
